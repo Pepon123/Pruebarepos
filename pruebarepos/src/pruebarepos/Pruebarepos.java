@@ -8,7 +8,7 @@ public class Pruebarepos {
         // TODO code application logic here
         //esta es una prueba dos
         //holaestoyeditandomadfakersdfsfasdg
-        
+        //hola como estas
     }
     
 }
